@@ -16,7 +16,7 @@ Test Case Fail Example    # Пример зафейленного тест-ке�
     Should Be Equal As Strings  ${hello_world}    Hello world    # Сравнение строк, в данном случае возвращает Fail
 
 Verfy sum of two numbers
-    Pass
+    Pass Execution	'Modify me'
 
 *** Keywords ***
 Add Word To String    # Новое ключевое слово
